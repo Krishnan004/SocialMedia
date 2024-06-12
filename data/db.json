@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "tittle": "My First Post",
+      "datetime": "0021 27,2024 6:21:26 PM",
+      "body": "React js"
+    },
+    {
+      "id": "2",
+      "tittle": "My Second Post",
+      "datetime": "0021 27,2024 6:21:49 PM",
+      "body": "Node js"
+    },
+    {
+      "id": "3",
+      "tittle": "My Third Post",
+      "datetime": "0002 29,2024 9:02:42 AM",
+      "body": "Tailwind js"
+    },
+    {
+      "id": "31",
+      "tittle": "my fourth post",
+      "datetime": "0051 30,2024 10:51:41 PM",
+      "body": "diudiuo"
+    }
+  ]
+}
